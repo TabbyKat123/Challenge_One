@@ -1,0 +1,8 @@
+body{
+	background-color: #FFEB99;
+}
+#nav{
+	display: block;
+	position: left;
+	padding: 20px;
+}
