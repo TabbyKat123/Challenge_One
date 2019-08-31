@@ -1,6 +1,9 @@
 body{
-	background-color: #FFEB99;
+	background-color: #FFFACD;
 }
+
+
+
 #nav li{
 	
 	padding: 0px 10px;
@@ -24,3 +27,37 @@ body{
 	color: red;/*change the text color to red when one hovers over an element*/
 
 }
+
+#content {
+	background-color: #FAFAD2;
+	padding: 12px;
+
+
+
+}
+
+#main{
+	background-color: #FFFFE0;
+	width:450px;
+
+}
+
+.container{
+	max-width: 1040px;
+	border: 1px;
+	margin: 0 auto;
+}
+
+p{
+	text-align: left;
+	font-family: Georgia, serif;
+}
+h3{
+	text-align: center;
+	font-family: Times, serif;
+
+}
+h1{
+	text-align: center; 
+}
+
