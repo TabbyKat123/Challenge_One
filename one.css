@@ -1,8 +1,26 @@
 body{
 	background-color: #FFEB99;
 }
-#nav{
+#nav li{
+	
+	padding: 0px 10px;
+	border: 1px solid black;
+	background-color: white;
+	margin: 2px;
+}
+
+#nav ul{
+	list-style: none;/* removes the bulleting from the links*/
+	margin: 0 10px;
 	display: block;
-	position: left;
-	padding: 20px;
+}
+
+#nav li a{
+	text-decoration-line: none;/*removes the underline from the links*/
+	font-size: 18px;
+}
+
+#nav li a:hover{
+	color: red;/*change the text color to red when one hovers over an element*/
+
 }
